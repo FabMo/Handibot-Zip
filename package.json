@@ -1,0 +1,11 @@
+{
+  "name": "Zip!",
+  "license": "MIT",
+  "main": "./index.html",
+  "icon": "icon.png",
+  "icon_color": "#ffd70cff",
+  "version": "0.0.1",
+  "author": "Ryan Sturmer",
+  "description": "Post Post",
+  "id":"fabmo-postpost-app"
+}
